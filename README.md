@@ -2,7 +2,7 @@
 <img alt="Hello world" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" style="max-width: 100%;">
 
 #### I’m Soukaina El Hadifi — Data Engineer & AI Enthusiast from Morocco
-I’m a final-year Data Engineering student at the **National School of Applied Sciences – Al Hoceima (ENSAH)**, passionate about crafting intelligent, scalable, and high-performance data-driven systems.  
+I’m a final-year Data Engineering student at the **National School of Applied Sciences – Al Hoceima**, passionate about crafting intelligent, scalable, and high-performance data-driven systems.  
 I thrive on tackling complex challenges, streamlining workflows, and exploring innovative technologies to push boundaries and deliver impactful solutions.
 
 ---
