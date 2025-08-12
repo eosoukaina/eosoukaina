@@ -6,7 +6,7 @@ I’m a final-year Data Engineering student at the **National School of Applied 
 I thrive on tackling complex challenges, streamlining workflows, and exploring innovative technologies to push boundaries and deliver impactful solutions.
 
 
-##Interests
+## Interests
 - Data Engineering  
 - Data Science & AI  
 - Machine Learning / Deep Learning / NLP  
